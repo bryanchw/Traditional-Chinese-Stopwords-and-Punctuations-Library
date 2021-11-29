@@ -1,0 +1,14 @@
+Change Log
+==========
+
+0.0.1 (Nov/26/2021)
+-------------------
+- First release
+
+0.0.2 (Nov/29/2021)
+-------------------
+- Updated project description
+
+0.0.3 (Nov/29/2021)
+-------------------
+- Updated README.md

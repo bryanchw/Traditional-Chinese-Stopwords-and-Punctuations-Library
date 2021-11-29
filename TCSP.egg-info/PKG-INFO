@@ -1,0 +1,45 @@
+Metadata-Version: 1.1
+Name: TCSP
+Version: 0.0.3
+Summary: Traditional Chinese stopwords library
+Home-page: UNKNOWN
+Author: Bryan Wu
+Author-email: bryanchw@umich.edu
+License: MIT
+Description: # Traditional Chinese Stopwords and Punctuations
+        
+        This library is created specifically for Traditional Chinese stopwords and punctuations removal.
+        
+        It also includes NLTK's English stopwords and numbers if you are processing a hybrid of Chinese and English text data.
+        
+        # Get Started
+        
+        pip install TCSP
+        
+        from TCSP import read_stopwords_list
+        
+        Calling the 'read_stopwords_list()' function will return the stopwords list 
+        
+        
+        Change Log
+        ==========
+        
+        0.0.1 (Nov/26/2021)
+        -------------------
+        - First release
+        
+        0.0.2 (Nov/29/2021)
+        -------------------
+        - Updated project description
+        
+        0.0.3 (Nov/29/2021)
+        -------------------
+        - Updated README.md
+        
+Keywords: stopwords
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
