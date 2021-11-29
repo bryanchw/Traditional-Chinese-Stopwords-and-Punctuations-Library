@@ -11,3 +11,5 @@ pip install TCSP
 from TCSP import read_stopwords_list
 
 Calling the 'read_stopwords_list()' function will return the stopwords list 
+
+https://pypi.org/project/TCSP/
