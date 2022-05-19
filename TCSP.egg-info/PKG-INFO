@@ -1,7 +1,7 @@
 Metadata-Version: 1.1
 Name: TCSP
-Version: 0.0.3
-Summary: Traditional Chinese stopwords library
+Version: 0.0.9
+Summary: Traditional Chinese Stopwords and Punctuations Library
 Home-page: UNKNOWN
 Author: Bryan Wu
 Author-email: bryanchw@umich.edu
@@ -18,7 +18,7 @@ Description: # Traditional Chinese Stopwords and Punctuations
         
         from TCSP import read_stopwords_list
         
-        Calling the 'read_stopwords_list()' function will return the stopwords list 
+        Calling the 'read_stopwords_list()' function will return the stopwords list
         
         
         Change Log
@@ -36,6 +36,13 @@ Description: # Traditional Chinese Stopwords and Punctuations
         -------------------
         - Updated README.md
         
+        0.0.8 (May/19/2022)
+        -------------------
+        - Fixed issue with read_stopwords_list()
+        
+        0.0.9 (May/19/2022)
+        -------------------
+        - Updated change log
 Keywords: stopwords
 Platform: UNKNOWN
 Classifier: Development Status :: 5 - Production/Stable

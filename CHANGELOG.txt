@@ -12,3 +12,11 @@ Change Log
 0.0.3 (Nov/29/2021)
 -------------------
 - Updated README.md
+
+0.0.8 (May/19/2022)
+-------------------
+- Fixed issue with read_stopwords_list()
+
+0.0.9 (May/19/2022)
+-------------------
+- Updated change log

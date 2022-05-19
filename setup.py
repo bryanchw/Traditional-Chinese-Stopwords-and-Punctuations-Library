@@ -10,8 +10,8 @@ classifiers = [
 
 setup(
   name='TCSP',
-  version='0.0.3',
-  description='Traditional Chinese stopwords library',
+  version='0.0.9',
+  description='Traditional Chinese Stopwords and Punctuations Library',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',
   author='Bryan Wu',
